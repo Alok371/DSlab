@@ -1,0 +1,1 @@
+Elements in the queue are: 8 6 23 65 78 
